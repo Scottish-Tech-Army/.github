@@ -6,7 +6,7 @@
 
 # We are the Scottish Tech Army
 
-The Scottish Tech Army volunteer community are working with organisations all across Scotland to provide much needed digital help.  We have worked with a number of charities to improve their confidence and understanding of how technology can be used to deliver their services. [Read our stories here](https://www.scottishtecharmy.org/our-projects)
+The Scottish Tech Army volunteer community works with organisations all across the UK to provide much needed digital help.  We have worked with a number of charities to improve their confidence and understanding of how technology can be used to deliver their services. [Read our stories here](https://www.scottishtecharmy.org/our-projects)
 
 ### Volunteer
 
